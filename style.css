@@ -1,0 +1,435 @@
+body{
+    background-image: url(HauntingFilthyAmericanbobtail-size_restricted.gif);
+    font-family: 'Cinzel', serif;
+    margin: 100px;
+    margin-top: 10px;
+    margin-bottom: 50pxpx;
+}
+img{
+    width: 50 %;
+}
+.primera{
+    width: 60%;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+.segunda{
+    width: 50%;
+    border-radius: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.title-universo{
+    font-size: 250px ;
+}
+.title-astrobiologia{
+    font-size: 1000px;
+}
+.title-estrellas{
+    font-size: 100px;}
+
+
+.p-astrobiologia{
+    font-family: monospace;
+    justify-content: center;
+}
+
+.p-origen{
+    font-family: monospace;
+    justify-content: center;
+}
+.p-estrellas{
+    font-family: monospace;
+    justify-content: center;
+}
+
+.title-misiones{
+    color: indigo;
+}
+
+.title-top{
+    color: indigo;
+}
+
+.main-title{
+    font-family: 'VT323', monospace;
+    font-size: 200px;
+    text-shadow: 2px 4px 8px;
+    justify-content: center;
+    display: flex;
+    color: floralwhite;
+    margin-bottom: 40px;
+    margin-top: .1px;
+
+}
+.title-top{
+    text-align: center;
+    font-size: 60px;
+    color: ivory;
+    font-family: serif;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.title-misiones{
+    text-align: center;
+    font-size: 60px;
+    font-family: serif;
+    color: ivory;
+}
+.title-astrobiologia{
+    text-align: center;
+    font-size: 90px;
+    font-family: serif;
+    color: lavenderblush;
+}
+
+.title-estrellas{
+    text-align: center;
+    font-size: 90px;
+    font-family: serif;
+    color: lavenderblush;
+}
+
+.title-universo{
+    text-align: center;
+    font-size: 90px;
+    font-family: serif;
+    color: lavenderblush;
+}
+
+.p-estrellas{
+    text-align: justify;
+    font-size: 25px ;
+    color: floralwhite;
+}
+
+.p-astrobiologia{
+    text-align: justify;
+    font-size: 25px;
+    color: floralwhite;
+}
+.p-origen{
+    text-align: justify;
+    font-size: 25px;
+    color: floralwhite;
+}
+
+.astronauta{
+    text-align: center;
+}
+
+.mundo{
+    text-align: center;
+}
+
+.fondo{
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.edad{
+    text-align: center;
+    font-size: 40px;
+    color: floralwhite;
+    margin-top: 80px;
+    font-family: Cinzel;
+
+}
+
+.apolo2{
+    text-align: center;
+    font-size: 40px;
+    color: floralwhite;
+    margin-top: 120px;
+    font-family: Cinzel;
+}
+
+.objeto{
+    text-align: center;
+    font-size: 40px;
+    color: floralwhite;
+    margin-top: 120px;
+    font-family: Cinzel;
+}
+
+.mision1{
+    font-size: 25px;
+    color: floralwhite;
+    margin-top: 80px;
+    font-family: 'Times New Roman';
+    margin-left: 90px;
+    margin-right: 220px;
+}
+.mision2{
+    text-align: center;
+    font-size: 25px;
+    color: floralwhite;
+    margin-left: 90px;
+    margin-right: 220px;
+    font-family: 'Times New Roman';
+}
+
+.plantenas{
+    text-align: center;
+    font-size: 25px;
+    color: floralwhite;
+    margin-top: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Times New Roman';
+}
+
+.nebulosas{
+    text-align: center;
+    font-size: 25px;
+    color: floralwhite;
+    margin-top: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Times New Roman';
+}
+
+.satelites{
+    text-align: center;
+    font-size: 25px;
+    color: floralwhite;
+    margin-top: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Times New Roman';
+}
+.plantas{
+    text-align: center;
+    font-size: 25px;
+    color: floralwhite;
+    margin-top: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Times New Roman';
+}
+
+.agujeros{
+    text-align: center;
+    font-size: 25px;
+    color: floralwhite;
+    margin-top: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Times New Roman';
+
+}
+
+.galaxias{
+    text-align: center;
+    font-size: 25px;
+    color: floralwhite;
+    margin-top: 80px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Times New Roman';
+}
+
+.sub1{
+    text-align: left;
+    font-size: 25px;
+    color: floralwhite;
+    margin-top: 5000px;
+    margin-left: 42px;
+    margin-right: 42px;
+    margin-bottom: 2000px;
+}
+
+.sub2{
+    text-align: center;
+    font-size: 25px;
+    color: floralwhite;
+    margin-top: 5000px;
+    margin-left: 42px;
+    margin-right: 42px;
+    margin-bottom: 2000px;
+}
+
+.sub3{
+    text-align: right;
+    font-size: 25px;
+    color: floralwhite;
+    margin-top: 5000px;
+    margin-left: 42px;
+    margin-right: 42px;
+    margin-bottom: 2000px;
+}
+
+.R136a1{
+    text-align: justify;
+    font-size: 25px;
+    color: floralwhite;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman';
+}
+
+.Peonia{
+    text-align: justify;
+    font-size: 25px;
+    color: floralwhite;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman';
+}
+.Pistola{
+    text-align: justify;
+    font-size: 25px;
+    color: floralwhite;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman';
+}
+.LBV{
+    text-align: justify;
+    font-size: 25px;
+    color: floralwhite;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman';
+}
+.b93129{
+    text-align: justify;
+    font-size: 25px;
+    color: floralwhite;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman';
+}
+.HD{
+    text-align: justify;
+    font-size: 25px;
+    color: floralwhite;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman';
+}
+.boton{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(21, 17, 214);
+    margin-top: 20px;
+    font-family: 'Times New Roman';
+    bottom: 1000;
+}
+.mis1{
+    text-align: justify;
+    font-size: 25px;
+    color: floralwhite;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman';
+}
+.mis2{
+    text-align: justify;
+    font-size: 25px;
+    color: floralwhite;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman';
+}
+.mis3{
+    text-align: justify;
+    font-size: 25px;
+    color: floralwhite;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman';
+}
+.mis4{
+    text-align: justify;
+    font-size: 25px;
+    color: floralwhite;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman';
+}
+.mis5{
+    text-align: justify;
+    font-size: 25px;
+    color: floralwhite;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman';
+}
+.uni{
+    width: 80%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.es{
+    width: 80%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.movimiento{
+    width: 80%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.as{
+    width: 80%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.boton2{
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+selector{
+    propiedad:valor;
+}*
